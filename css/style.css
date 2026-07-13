@@ -108,6 +108,13 @@ body{
     span{
         font-style: italic;
         color: #424242;
+        border-radius: 10px;
+
+        display: inline-block;
+        background: #edd9a3;
+        line-height: 0.7;
+        padding-bottom: 3px;
+
     }
 }
 
